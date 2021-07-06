@@ -7,7 +7,7 @@ h1{
 .orange-color{
     color: orange;
 }
-section{
+.flxible-container{
     display:flex;
 }
 .half-width{
@@ -42,4 +42,10 @@ section{
   }
   h3 {text-align: center;}
 p {text-align: center;}
-  
+ footer h4 {
+     text-align: center;
+ }
+ footer p {
+     text-align: center;
+ } 
+ 
