@@ -7,3 +7,39 @@ h1{
 .orange-color{
     color: orange;
 }
+section{
+    display:flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 2px 5px;
+    color: white;
+    font-weight: 500;
+    border-radius: 10px;
+}
+.container {
+    position: relative;
+  }
+  
+  /* Bottom right text */
+  .text-block {
+    position:relative;
+    text-align: left;
+    bottom: 20px;
+    right: 2px;
+    background-color: orange;
+    color: white;
+    padding-left: 2px;
+    padding-right: 2px;
+  }
+  h3 {text-align: center;}
+p {text-align: center;}
+  
